@@ -1,0 +1,11 @@
+		'USER DATA'
+Name: Varun Kumar
+Username: varun@quickmail.com
+Birthday: 27/06/2002
+Gender: Male
+Location: Varanasi/India
+Mobile #: +91-8789519699
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+

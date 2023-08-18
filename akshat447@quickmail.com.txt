@@ -1,0 +1,20 @@
+		'USER DATA'
+Name: akshat jain
+Username: akshat447@quickmail.com
+Birthday: 05/04/2003
+Gender: Male
+Location: sre-india
+Mobile #: +91-7300716447
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+
+From: parth@quickmail.com
+this is a sample mail...... please ignore.....
+--------------------------------------------------------------
+From: prince@quickmail.com
+this mail has to be deleted....
+--------------------------------------------------------------
+From: prince@quickmail.com
+nptel result has been declared... time to say goodbye to scholarship...
+--------------------------------------------------------------

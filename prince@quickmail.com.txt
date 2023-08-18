@@ -1,0 +1,17 @@
+		'USER DATA'
+Name: Prince Saini
+Username: prince@quickmail.com
+Birthday: 21/04/2003
+Gender: Male
+Location: Roorkie/India
+Mobile #: +91-9045258860
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+
+From: akshat447@quickmail.com
+this mail has been sent to you for checking purposes only. Please ignore....
+--------------------------------------------------------------
+From: parth@quickmail.com
+when is our first final practical and which is the first subject 
+--------------------------------------------------------------

@@ -1,0 +1,32 @@
+From: akshat447@quickmail.com
+To: pandeyji@quickmail.com.txt
+Message: hello... this is a test message to check the functionality if our program.
+--------------------------------------------------------------
+From: akshat447@quickmail.com
+To: parth@quickmail.com.txt
+Message: hey there, I'm using quickmail.
+--------------------------------------------------------------
+From: akshat447@quickmail.com
+To: prince@quickmail.com.txt
+Message: this mail has been sent to you for checking purposes only. Please ignore....
+--------------------------------------------------------------
+From: varun@quickmail.com
+To: bhavi@quickmail.com.txt
+Message: hii I'm varun from 607A. Lets go on a trip to Himachal after exams.
+--------------------------------------------------------------
+From: parth@quickmail.com
+To: akshat447@quickmail.com.txt
+Message: this is a sample mail...... please ignore.....
+--------------------------------------------------------------
+From: parth@quickmail.com
+To: prince@quickmail.com.txt
+Message: when is our first final practical and which is the first subject 
+--------------------------------------------------------------
+From: prince@quickmail.com
+To: akshat447@quickmail.com.txt
+Message: this mail has to be deleted....
+--------------------------------------------------------------
+From: prince@quickmail.com
+To: akshat447@quickmail.com.txt
+Message: nptel result has been declared... time to say goodbye to scholarship...
+--------------------------------------------------------------

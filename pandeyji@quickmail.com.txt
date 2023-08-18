@@ -1,0 +1,14 @@
+		'USER DATA'
+Name: Satvik Kumar
+Username: pandeyji@quickmail.com
+Birthday: 01/01/2003
+Gender: Male
+Location: Lucknow/India
+Mobile #: +91-6388433880
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+
+From: akshat447@quickmail.com
+hello... this is a test message to check the functionality if our program.
+--------------------------------------------------------------

@@ -1,0 +1,14 @@
+		'USER DATA'
+Name: Parth Choudhary
+Username: parth@quickmail.com
+Birthday: 07/22/2004
+Gender: Male
+Location: Chandigarh/India
+Mobile #: +91-7357034634
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+
+From: akshat447@quickmail.com
+hey there, I'm using quickmail.
+--------------------------------------------------------------

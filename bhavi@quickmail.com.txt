@@ -1,0 +1,14 @@
+		'USER DATA'
+Name: Bhavi Kumar
+Username: bhavi@quickmail.com
+Birthday: 12/08/2003
+Gender: Male
+Location: Sonipat/India
+Mobile #: +91-7615425425
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+
+From: varun@quickmail.com
+hii I'm varun from 607A. Lets go on a trip to Himachal after exams.
+--------------------------------------------------------------
